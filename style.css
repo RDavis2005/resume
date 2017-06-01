@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: arial;
+}
+
+header {
+    background: url("images/macbook-and-iphone.jpg");
+    height: 600px;
+    background-size: cover;
+    text-align: center;
+    padding: 20px; 
+}
+
+nav a {
+    color: white;
+    font-weight: 700;
+    font-size: 1em;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+nav {
+    float: right;
+}
+
+h1 {
+    clear: both;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+    
+h1 span {
+    border: solid 10px white;
+    padding: 20px;
+    font-size: 72px;
+}
+
+#kicker {
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    padding-top: 50px;
+}
+
+#content {
+    text-align: center;
+}
